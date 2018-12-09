@@ -1,6 +1,6 @@
 
 *{
-  cursor:url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+  cursor:url("/img/cur.png"), pointer;
 }
 
 body{
@@ -10,13 +10,15 @@ body{
   color:black;
   height:100%;
   width: 100%;
-  cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"),
+  cursor: url("/img/cur.png"),
 }
 
 img{
   margin-top: 80px;
-  cursor:url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
-
+  cursor:url("/img/cur.png"), pointer;
+  width:60%;
+  display: inline-block;
+  vertical-align: top;
 
 }
 .gg a{
@@ -24,11 +26,13 @@ img{
   font: 110px helvetica;
   font-weight: lighter;
   margin-top: 20px;
-  margin-left: 20%;
+  margin-left: 0%;
   position:fixed;
   color: black;
-  cursor:url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+  cursor:url("/img/cur.png"), pointer;
   z-index: 100;
+  width:100%;
+  text-align: right;
 }
 .gg a:hover{
   color:blue;
@@ -43,7 +47,7 @@ img{
     margin-top: 200px;
     margin-right:30%;
     color: black;
-    cursor:url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+    cursor:url("/img/cur.png"), pointer;
     z-index: 2;
   }
 
@@ -62,7 +66,7 @@ img{
     margin-top: 550px;
     margin-left: 77.5%;
     color: black;
-    cursor:url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+    cursor:url("/img/cur.png"), pointer;
     z-index: 3;
 
   }
@@ -89,14 +93,17 @@ img{
   padding-bottom: 20px;
   text-align: justify;
   margin-top: 150px;
-  font: arial, helvetica, sans-serif normal;
+  font-family: arial, helvetica, sans-serif;
+  display: inline-block;
+width: 35%;
+vertical-align: top;
 }
 .chelsea-region a{
   text-decoration: none;
   color:#003399;
   padding-bottom: 20px;
   text-align: justify;
-  font: arial, helvetica, sans-serif normal;
+  font-family: arial, helvetica, sans-serif;
 }
 .chelsea-region a:hover {
     color: blue;

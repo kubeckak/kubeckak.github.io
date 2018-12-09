@@ -1,16 +1,16 @@
 
 *{
-  cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+  cursor: url("/img/cur.png"), pointer;
 
 }
 body{
-  font:Arial, Helvetica;
+  font:Arial, Helvetica, sans-serif;
   text-transform: uppercase;
   line-height: 1.6em;
   transition: 0s, 1s;
   height:100%;
   width: 100%;
-  cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png");
+  cursor: url("/img/cur.png");
 
 
 
@@ -18,22 +18,20 @@ body{
 .neighborhoods{
   text-transform: uppercase;
   width: 100%;
-  cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+  cursor: url("/img/cur.png"), pointer;
   text-align: justify;
   margin-top: 180px;
-  font: "Courier New," Courier;
-
-
+  font-family: arial, helvetica, sans-serif;
 }
 
 .neighborhoods a{
     text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif normal;
+    font-family: Arial, Helvetica, sans-serif;
     color: white;
     font-size: 20px;
     text-transform: uppercase;
     margin-top: 50px;
-    cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+    cursor: url("/img/cur.png"), pointer;
     transition: 0s, 1s;
     text-transform: full-width;
     z-index: 1;
@@ -42,7 +40,7 @@ body{
 }
 
 .neighborhoods a:hover{
-  cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+  cursor: url("/img/cur.png"), pointer;
   transition: 0s;
   font:helvetica;
 }
@@ -54,7 +52,7 @@ body{
   margin-left: 26%;
   position:fixed;
   color: black;
-  cursor:url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+  cursor:url("/img/cur.png"), pointer;
   z-index: 100;
 }
 .gg a:hover{
@@ -70,14 +68,14 @@ body{
     margin-top: 50px;
     margin-right:30%;
     color: black;
-    cursor:url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+    cursor:url("/img/cur.png"), pointer;
     z-index: 2;
   }
 
 .c-area a:hover{
 
   color:#003399;
-  cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+  cursor: url("/img/cur.png"), pointer;
 
 }
 
@@ -91,14 +89,14 @@ body{
     margin-top: 300px;
     margin-left: 77.5%;
     color: black;
-    cursor:url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+    cursor:url("/img/cur.png"), pointer;
     z-index: 3;
 
   }
 
 .s-area a:hover{
   color:#003399;
-  cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+  cursor: url("/img/cur.png"), pointer;
 }
 
 .l-area a{
@@ -111,7 +109,7 @@ body{
     margin-top: 550px;
     position:absolute;
     color: black;
-    cursor:url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+    cursor:url("/img/cur.png"), pointer;
     z-index: 2;
     color:black;
 
@@ -119,7 +117,7 @@ body{
 
 .l-area a:hover{
   color:#003399;
-  cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+  cursor: url("/img/cur.png"), pointer;
 }
 
 
@@ -134,7 +132,7 @@ body{
     margin-right:29%;
     margin-bottom:300px;
     color: black;
-    cursor:url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+    cursor:url("/img/cur.png"), pointer;
     z-index: 2;
     display: block;
 
@@ -142,7 +140,7 @@ body{
 
 .b-area a:hover{
   color:#003399;
-  cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+  cursor: url("/img/cur.png"), pointer;
 }
 
 .region {
@@ -156,29 +154,29 @@ body{
   width: 100%;
   padding-bottom: 20px;
   text-align: justify;
-  font: arial, helvetica, sans-serif normal;
-  cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+  font-family: arial, helvetica, sans-serif;
+  cursor: url("/img/cur.png"), pointer;
 }
 
 .chelsea-region a:hover {
     color: blue;
     padding-top: 50%;
-    cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+    cursor: url("/img/cur.png"), pointer;
 
 
 }
 .les-region a:hover{
   color: pink;
-  cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+  cursor: url("/img/cur.png"), pointer;
 }
 
 .brooklyn-region a:hover{
   color:green;
-  cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+  cursor: url("/img/cur.png"), pointer;
 
 }
 
 .soho-region a:hover {
   color:yellow;
-  cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+  cursor: url("/img/cur.png"), pointer;
 }
