@@ -1,0 +1,92 @@
+
+*{
+  cursor:url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+}
+
+body{
+  font:Arial, Helvetica;
+  text-transform: uppercase;
+  line-height: 1.6em;
+  color:black;
+  height:100%;
+  width: 100%;
+  cursor: url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"),
+}
+
+img{
+  margin-top: 80px;
+  cursor:url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+
+
+}
+.gg a{
+  text-decoration: none;
+  font: 110px helvetica;
+  font-weight: lighter;
+  margin-top: 20px;
+  margin-left: 60%;
+  position:fixed;
+  color: black;
+  cursor:url("file:///Users/kristenkubecka/Desktop/Website%20Experiments/Psychogeo%20Website/img/cur.png"), pointer;
+  z-index: 100;
+}
+.gg a:hover{
+  color:#003399;
+}
+
+
+  li{
+    list-style:decimal;
+    font: Arial, Helvetica, sans-serif;
+    margin-right:10px;
+  }
+
+  lu{
+    margin-top: 70px;
+    font: Arial, Helvetica;
+    margin-right:10px;
+  }
+
+  .listtop{
+    color:white;
+    font: 16px Arial, Helvetica, sans-serif bold;
+    float:left;
+    margin-top: 70px;
+  }
+
+.chelsea-region{
+  display: block;
+  color:black;
+  width: 100%;
+  padding-bottom: 20px;
+  text-align: justify;
+  margin-top: 150px;
+  font: arial, helvetica, sans-serif normal;
+}
+.chelsea-region a{
+  text-decoration: none;
+  color:#003399;
+  line-height: 1.5px;
+  padding-bottom: 20px;
+  text-align: justify;
+  font: arial, helvetica, sans-serif normal;
+}
+.chelsea-region a:hover {
+    color: blue;
+    padding-top: 50%;
+
+
+}
+.les-region a:hover{
+  color: pink;
+}
+
+.brooklyn-region a:hover{
+  color:green;
+
+}
+
+.soho-region a:hover {
+  color:yellow;
+
+}
