@@ -27,7 +27,6 @@ img{
   font-weight: lighter;
   margin-top: 20px;
   margin-left: 0%;
-  position:fixed;
   color: black;
   cursor:url("/img/cur.png"), pointer;
   z-index: 100;
