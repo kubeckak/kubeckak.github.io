@@ -65,7 +65,7 @@ body{
     font: 100px helvetica;
     font-weight: lighter;
     padding-top:100px;
-    margin-top: 50px;
+    margin-top: 180px;
     margin-right:30%;
     color: black;
     cursor:url("/img/cur.png"), pointer;
@@ -86,7 +86,7 @@ body{
     font: 100px helvetica;
     font-weight: lighter;
     padding-top:100px;
-    margin-top: 300px;
+    margin-top: 410px;
     margin-left: 77.5%;
     color: black;
     cursor:url("/img/cur.png"), pointer;
@@ -106,7 +106,7 @@ body{
     font: 100px helvetica;
     font-weight: lighter;
     padding-top:100px;
-    margin-top: 550px;
+    margin-top: 640px;
     position:absolute;
     color: black;
     cursor:url("/img/cur.png"), pointer;
@@ -128,7 +128,7 @@ body{
     font: 100px helvetica;
     font-weight: lighter;
     padding-top:100px;
-    margin-top:700px;
+    margin-top:560px;
     margin-right:29%;
     margin-bottom:300px;
     color: black;
