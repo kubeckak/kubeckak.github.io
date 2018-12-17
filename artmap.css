@@ -47,9 +47,9 @@ body{
 .gg a{
   text-decoration: none;
   font: 100px helvetica;
-  font-weight: lighter;
-  margin-top: -140px;
-  margin-left: 26%;
+  font-weight: normal;
+  margin-top: 70px;
+  margin-left: 12%;
   position:fixed;
   color: black;
   cursor:url("/img/cur.png"), pointer;
@@ -63,9 +63,9 @@ body{
     float:right;
     text-decoration: none;
     font: 100px helvetica;
-    font-weight: lighter;
+    font-weight: normal;
     padding-top:100px;
-    margin-top: 180px;
+    margin-top: 230px;
     margin-right:58%;
     color: black;
     cursor:url("/img/cur.png"), pointer;
@@ -84,7 +84,7 @@ body{
     text-decoration: none;
     position: absolute;
     font: 100px helvetica;
-    font-weight: lighter;
+    font-weight: normal;
     padding-top:100px;
     margin-top: 410px;
     margin-left: 77.5%;
@@ -104,7 +104,7 @@ body{
     text-decoration: none;
     float: left;
     font: 100px helvetica;
-    font-weight: lighter;
+    font-weight: normal;
     padding-top:100px;
     margin-top: 640px;
     position:absolute;
@@ -126,7 +126,7 @@ body{
     text-decoration: none;
     float: right;
     font: 100px helvetica;
-    font-weight: lighter;
+    font-weight: normal;
     padding-top:100px;
     margin-top:560px;
     margin-right:10%;
